@@ -22,3 +22,7 @@ frontendchallenges
     react
         ...
 ```
+
+## List of resources 
+* [Codecademy](https://www.codecademy.com) - html, css, javascript, react
+* [Free code camp](https://www.freecodecamp.com) - html, css, javascript
