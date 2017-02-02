@@ -27,7 +27,7 @@ div {
 }
 ```
 
-Notice how the divs just lay down horizontally. Now make them inline-block:
+Notice how the divs just lay down vertically. Now make them inline-block:
 
 ```css
 div {
@@ -40,4 +40,4 @@ div {
 
 The elements flow just how we need them to. This isn't the only way to make block elements flow like this. You could use the float property, flexbox, or tables.
 Check out this [article](http://blog.karenmenezes.com/2014/apr/13/floats-inline-block-or-display-table-or-flexbox/#wrapper) for the advantages/disadvantages of
-using each method and then try them for yourself. 
+using each method and then try them for yourself.
