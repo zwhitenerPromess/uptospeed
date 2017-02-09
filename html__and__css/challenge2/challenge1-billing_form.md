@@ -1,6 +1,6 @@
 ## Build a billing form
 
-Pretend you're a developer of an ecommerce store and you need to build a form that would allow the end user to enter their billing. Your goal
+Pretend you're a developer of an ecommerce store and you need to build a form that would allow the end user to enter their billing info. Your goal
 is to create a form that grabs the following information:
 
 * full name
